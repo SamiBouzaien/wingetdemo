@@ -4,7 +4,7 @@ using System.Management.Automation;
 using System.Management.Automation.Runspaces;
 using System.Text;
 
-namespace ConsoleApp1
+namespace DemoWinget
 {
     class Program
     {
